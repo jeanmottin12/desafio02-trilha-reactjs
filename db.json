@@ -19,16 +19,6 @@
       "id": 4,
       "name": "drama",
       "title": "Drama"
-    },
-    {
-      "id": 5,
-      "name": "horror",
-      "title": "Terror"
-    },
-    {
-      "id": 6,
-      "name": "family",
-      "title": "Família"
     }
   ],
   "movies": [
@@ -115,47 +105,6 @@
       "Response": "True"
     },
     {
-      "Genre_id": 1,
-      "Title": "Deadpool",
-      "Year": "2016",
-      "Rated": "R",
-      "Released": "12 Feb 2016",
-      "Runtime": "108 min",
-      "Genre": "Action, Adventure, Comedy, Sci-Fi",
-      "Director": "Tim Miller",
-      "Writer": "Rhett Reese, Paul Wernick",
-      "Actors": "Ryan Reynolds, Karan Soni, Ed Skrein, Michael Benyaer",
-      "Plot": "A wisecracking mercenary gets experimented on and becomes immortal but ugly, and sets out to track down the man who ruined his looks.",
-      "Language": "English",
-      "Country": "USA",
-      "Awards": "Nominated for 2 Golden Globes. Another 28 wins & 76 nominations.",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BYzE5MjY1ZDgtMTkyNC00MTMyLThhMjAtZGI5OTE1NzFlZGJjXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SX300.jpg",
-      "Ratings": [
-        {
-          "Source": "Internet Movie Database",
-          "Value": "8.0/10"
-        },
-        {
-          "Source": "Rotten Tomatoes",
-          "Value": "85%"
-        },
-        {
-          "Source": "Metacritic",
-          "Value": "65/100"
-        }
-      ],
-      "Metascore": "65",
-      "imdbRating": "8.0",
-      "imdbVotes": "904,840",
-      "imdbID": "tt1431045",
-      "Type": "movie",
-      "DVD": "21 Apr 2016",
-      "BoxOffice": "$363,070,709",
-      "Production": "Kinberg Genre, Donners&#39; Company",
-      "Website": "N/A",
-      "Response": "True"
-    },
-    {
       "Genre_id": 2,
       "Title": "Bad Boys for Life",
       "Year": "2020",
@@ -198,47 +147,6 @@
     },
     {
       "Genre_id": 2,
-      "Title": "Sausage Party",
-      "Year": "2016",
-      "Rated": "R",
-      "Released": "12 Aug 2016",
-      "Runtime": "89 min",
-      "Genre": "Animation, Adventure, Comedy, Fantasy",
-      "Director": "Greg Tiernan, Conrad Vernon",
-      "Writer": "Kyle Hunter (screenplay by), Ariel Shaffir (screenplay by), Seth Rogen (screenplay by), Evan Goldberg (screenplay by), Seth Rogen (story by), Evan Goldberg (story by), Jonah Hill (story by)",
-      "Actors": "Alistair Abell, Iris Apatow, Sugar Lyn Beard, Michael Cera",
-      "Plot": "A sausage strives to discover the truth about his existence.",
-      "Language": "English",
-      "Country": "USA, Canada",
-      "Awards": "1 win & 24 nominations.",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BMjkxOTk1MzY4MF5BMl5BanBnXkFtZTgwODQzOTU5ODE@._V1_SX300.jpg",
-      "Ratings": [
-        {
-          "Source": "Internet Movie Database",
-          "Value": "6.1/10"
-        },
-        {
-          "Source": "Rotten Tomatoes",
-          "Value": "82%"
-        },
-        {
-          "Source": "Metacritic",
-          "Value": "66/100"
-        }
-      ],
-      "Metascore": "66",
-      "imdbRating": "6.1",
-      "imdbVotes": "176,325",
-      "imdbID": "tt1700841",
-      "Type": "movie",
-      "DVD": "04 Nov 2016",
-      "BoxOffice": "$97,685,686",
-      "Production": "Sony Music, Point Grey, Annapurna Pictures, Columbia Pictures",
-      "Website": "N/A",
-      "Response": "True"
-    },
-    {
-      "Genre_id": 2,
       "Title": "A Dog's Purpose",
       "Year": "2017",
       "Rated": "PG",
@@ -275,43 +183,6 @@
       "DVD": "18 Apr 2017",
       "BoxOffice": "$64,508,620",
       "Production": "Reliance Entertainment, Universal Pictures, Walden Media, Pariah",
-      "Website": "N/A",
-      "Response": "True"
-    },
-    {
-      "Genre_id": 3,
-      "Title": "The Game Changers",
-      "Year": "2018",
-      "Rated": "N/A",
-      "Released": "16 Sep 2019",
-      "Runtime": "86 min",
-      "Genre": "Documentary",
-      "Director": "Louie Psihoyos",
-      "Writer": "Shannon Kornelsen (Co-writer), Mark Monroe, Joseph Pace",
-      "Actors": "James Wilks, Arnold Schwarzenegger, Patrik Baboumian, Dotsie Bausch",
-      "Plot": "A UFC fighter's world is turned upside down when he discovers an elite group of world-renowned athletes and scientists who prove that everything he had been taught about protein was a lie.",
-      "Language": "English",
-      "Country": "USA",
-      "Awards": "1 nomination.",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BMzg4ZjMzOWEtZjBhZi00MzgxLWEzNmItYjVlYjY0MGQ5ZmM5XkEyXkFqcGdeQXVyNDExMzMxNjE@._V1_SX300.jpg",
-      "Ratings": [
-        {
-          "Source": "Internet Movie Database",
-          "Value": "7.9/10"
-        },
-        {
-          "Source": "Rotten Tomatoes",
-          "Value": "70%"
-        }
-      ],
-      "Metascore": "N/A",
-      "imdbRating": "7.9",
-      "imdbVotes": "16,197",
-      "imdbID": "tt7455754",
-      "Type": "movie",
-      "DVD": "01 Oct 2019",
-      "BoxOffice": "$739,711",
-      "Production": "Diamond Docs, ReFuel Productions, Oceanic Preservation Society",
       "Website": "N/A",
       "Response": "True"
     },
@@ -394,158 +265,6 @@
       "DVD": "01 Jun 2016",
       "BoxOffice": "$167,767,189",
       "Production": "TSG Entertainment",
-      "Website": "N/A",
-      "Response": "True"
-    },
-    {
-      "Genre_id": 4,
-      "Title": "After",
-      "Year": "2019",
-      "Rated": "PG-13",
-      "Released": "12 Apr 2019",
-      "Runtime": "105 min",
-      "Genre": "Drama, Romance",
-      "Director": "Jenny Gage",
-      "Writer": "Susan McMartin (screenplay by), Tamara Chestna (screenplay by), Jenny Gage (screenplay by), Tom Betterton (screenplay by), Anna Todd (based on the novel by)",
-      "Actors": "Josephine Langford, Hero Fiennes Tiffin, Khadijha Red Thunder, Dylan Arnold",
-      "Plot": "A young woman falls for a guy with a dark secret and the two embark on a rocky relationship. Based on the novel by Anna Todd.",
-      "Language": "English",
-      "Country": "USA",
-      "Awards": "4 wins.",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BOGUwMjk3YzktNDI0Yy00MzFiLWFjNmEtYTA2ODVjMzNhODhjXkEyXkFqcGdeQXVyOTQ1MDI4MzY@._V1_SX300.jpg",
-      "Ratings": [
-        {
-          "Source": "Internet Movie Database",
-          "Value": "5.3/10"
-        },
-        {
-          "Source": "Rotten Tomatoes",
-          "Value": "18%"
-        },
-        {
-          "Source": "Metacritic",
-          "Value": "30/100"
-        }
-      ],
-      "Metascore": "30",
-      "imdbRating": "5.3",
-      "imdbVotes": "38,125",
-      "imdbID": "tt4126476",
-      "Type": "movie",
-      "DVD": "25 Jun 2019",
-      "BoxOffice": "$12,138,565",
-      "Production": "Wattpad, Offspring Entertainment, Diamond Film Productions, Voltage Pictures",
-      "Website": "N/A",
-      "Response": "True"
-    },
-    {
-      "Genre_id": 5,
-      "Title": "Gretel & Hansel",
-      "Year": "2020",
-      "Rated": "PG-13",
-      "Released": "31 Jan 2020",
-      "Runtime": "87 min",
-      "Genre": "Fantasy, Horror, Mystery, Thriller",
-      "Director": "Oz Perkins",
-      "Writer": "Rob Hayes",
-      "Actors": "Sophia Lillis, Samuel Leakey, Alice Krige, Jessica De Gouw",
-      "Plot": "A long time ago in a distant fairy tale countryside, a young girl leads her little brother into a dark wood in desperate search of food and work, only to stumble upon a nexus of terrifying evil.",
-      "Language": "English",
-      "Country": "USA, Canada, Ireland, South Africa",
-      "Awards": "1 win & 11 nominations.",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BOTIyYWJjZDctODY4OC00NWExLWE2NTktZmY0MWY2YWZjMWIxXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_SX300.jpg",
-      "Ratings": [
-        {
-          "Source": "Internet Movie Database",
-          "Value": "5.4/10"
-        },
-        {
-          "Source": "Metacritic",
-          "Value": "64/100"
-        }
-      ],
-      "Metascore": "64",
-      "imdbRating": "5.4",
-      "imdbVotes": "24,098",
-      "imdbID": "tt9086228",
-      "Type": "movie",
-      "DVD": "N/A",
-      "BoxOffice": "$15,347,654",
-      "Production": "N/A",
-      "Website": "N/A",
-      "Response": "True"
-    },
-    {
-      "Genre_id": 5,
-      "Title": "The Nun",
-      "Year": "2018",
-      "Rated": "R",
-      "Released": "07 Sep 2018",
-      "Runtime": "96 min",
-      "Genre": "Horror, Mystery, Thriller",
-      "Director": "Corin Hardy",
-      "Writer": "Gary Dauberman (screenplay by), James Wan (story by), Gary Dauberman (story by)",
-      "Actors": "Demián Bichir, Taissa Farmiga, Jonas Bloquet, Bonnie Aarons",
-      "Plot": "A priest with a haunted past and a novice on the threshold of her final vows are sent by the Vatican to investigate the death of a young nun in Romania and confront a malevolent force in the form of a demonic nun.",
-      "Language": "English, French, Romanian, Latin",
-      "Country": "USA",
-      "Awards": "2 wins & 1 nomination.",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BMjM3NzQ5NDcxOF5BMl5BanBnXkFtZTgwNzM4MTQ5NTM@._V1_SX300.jpg",
-      "Ratings": [
-        {
-          "Source": "Internet Movie Database",
-          "Value": "5.3/10"
-        },
-        {
-          "Source": "Rotten Tomatoes",
-          "Value": "25%"
-        },
-        {
-          "Source": "Metacritic",
-          "Value": "46/100"
-        }
-      ],
-      "Metascore": "46",
-      "imdbRating": "5.3",
-      "imdbVotes": "119,020",
-      "imdbID": "tt5814060",
-      "Type": "movie",
-      "DVD": "20 Nov 2018",
-      "BoxOffice": "$117,450,119",
-      "Production": "Atomic Monster, Safran Company",
-      "Website": "N/A",
-      "Response": "True"
-    },
-    {
-      "Genre_id": 6,
-      "Title": "Pets United",
-      "Year": "2019",
-      "Rated": "TV-Y7",
-      "Released": "11 Sep 2020",
-      "Runtime": "89 min",
-      "Genre": "Animation, Adventure, Comedy",
-      "Director": "Reinhard Klooss",
-      "Writer": "Reinhard Klooss, Reinhard Klooss (based on the story by), Oliver Huzly (based on the story by)",
-      "Actors": "Patrick Roche, Natalie Dormer, Felix Auer, Jeff Burrell",
-      "Plot": "A group of spoilt, selfish pets led by glamour cat Belle are stranded in their luxury hangout 'Pampered Pets,' when the machines that run Robo City, the hypermodern metropolis that they live in, go wild and take over.",
-      "Language": "English",
-      "Country": "Germany, China, UK",
-      "Awards": "N/A",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BNmU2YTEwODktZDFlNC00YWJmLTk0NjEtMzZjMjM4Y2E3NjdiXkEyXkFqcGdeQXVyMDA4NzMyOA@@._V1_SX300.jpg",
-      "Ratings": [
-        {
-          "Source": "Internet Movie Database",
-          "Value": "3.8/10"
-        }
-      ],
-      "Metascore": "N/A",
-      "imdbRating": "3.8",
-      "imdbVotes": "1,858",
-      "imdbID": "tt11276598",
-      "Type": "movie",
-      "DVD": "N/A",
-      "BoxOffice": "N/A",
-      "Production": "N/A",
       "Website": "N/A",
       "Response": "True"
     }
