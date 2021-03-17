@@ -24,47 +24,6 @@
   "movies": [
     {
       "Genre_id": 1,
-      "Title": "Underdog",
-      "Year": "2007",
-      "Rated": "PG",
-      "Released": "03 Aug 2007",
-      "Runtime": "84 min",
-      "Genre": "Action, Adventure, Comedy, Family, Fantasy, Sci-Fi",
-      "Director": "Frederik Du Chau",
-      "Writer": "Adam Rifkin (screenplay), Joe Piscatella (screenplay), Craig A. Williams (screenplay), Joe Piscatella (story), Craig A. Williams (story), Adam Rifkin (story), W. Watts Biggers (television series)",
-      "Actors": "Jason Lee, Peter Dinklage, Jim Belushi, Patrick Warburton",
-      "Plot": "A Beagle must use his newly-bestowed superpowers to defend Capitol City from mad scientist Simon Barsinister.",
-      "Language": "English",
-      "Country": "USA",
-      "Awards": "3 nominations.",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BMTk5NjkyNzEwOV5BMl5BanBnXkFtZTcwODc5NDI1MQ@@._V1_SX300.jpg",
-      "Ratings": [
-        {
-          "Source": "Internet Movie Database",
-          "Value": "10/10"
-        },
-        {
-          "Source": "Rotten Tomatoes",
-          "Value": "16%"
-        },
-        {
-          "Source": "Metacritic",
-          "Value": "37/100"
-        }
-      ],
-      "Metascore": "37",
-      "imdbRating": "4.7",
-      "imdbVotes": "19,729",
-      "imdbID": "tt0467110",
-      "Type": "movie",
-      "DVD": "08 Jul 2016",
-      "BoxOffice": "$43,760,605",
-      "Production": "Spyglass Entertainment",
-      "Website": "N/A",
-      "Response": "True"
-    },
-    {
-      "Genre_id": 1,
       "Title": "Star Wars: Episode III - Revenge of the Sith",
       "Year": "2005",
       "Rated": "PG-13",
@@ -101,47 +60,6 @@
       "DVD": "10 Apr 2015",
       "BoxOffice": "$380,270,577",
       "Production": "Lucasfilm Ltd.",
-      "Website": "N/A",
-      "Response": "True"
-    },
-    {
-      "Genre_id": 2,
-      "Title": "Bad Boys for Life",
-      "Year": "2020",
-      "Rated": "R",
-      "Released": "17 Jan 2020",
-      "Runtime": "124 min",
-      "Genre": "Action, Comedy, Crime, Thriller",
-      "Director": "Adil El Arbi, Bilall Fallah",
-      "Writer": "Peter Craig (story by), Joe Carnahan (story by), Chris Bremner (screenplay by), Peter Craig (screenplay by), Joe Carnahan (screenplay by), George Gallo (based on characters created by)",
-      "Actors": "Will Smith, Martin Lawrence, Vanessa Hudgens, Alexander Ludwig",
-      "Plot": "Miami detectives Mike Lowrey and Marcus Burnett must face off against a mother-and-son pair of drug lords who wreak vengeful havoc on their city.",
-      "Language": "English, Spanish",
-      "Country": "USA, Mexico",
-      "Awards": "2 wins & 12 nominations.",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BMWU0MGYwZWQtMzcwYS00NWVhLTlkZTAtYWVjOTYwZTBhZTBiXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_SX300.jpg",
-      "Ratings": [
-        {
-          "Source": "Internet Movie Database",
-          "Value": "6.6/10"
-        },
-        {
-          "Source": "Rotten Tomatoes",
-          "Value": "77%"
-        },
-        {
-          "Source": "Metacritic",
-          "Value": "59/100"
-        }
-      ],
-      "Metascore": "59",
-      "imdbRating": "6.6",
-      "imdbVotes": "131,495",
-      "imdbID": "tt1502397",
-      "Type": "movie",
-      "DVD": "31 Mar 2020",
-      "BoxOffice": "$206,305,244",
-      "Production": "2.0 Entertainment, Jerry Bruckheimer Films, Columbia Pictures",
       "Website": "N/A",
       "Response": "True"
     },
